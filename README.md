@@ -1,0 +1,1 @@
+# -solr-index-data-using-solrj
