@@ -1,12 +1,12 @@
 # -solr-index-data-using-solrj
 
 
-Apache-Solr kurulum ve Collection oluşurma
+Apache-Solr kurulum ve Core oluşurma
 
 https://lucene.apache.org/solr/guide/8_2/solr-tutorial.html
 
 
-Apache-Solr'da oluşturduğum collection'a ekleme yapabilmek için
+Apache-Solr'da oluşturduğum core'a ekleme yapabilmek için
 - ekleme yapmak istediğim alanların schema.xml'de tanımlı olması gerekir.
 Schema.xml -> solr.install.dir/server/solr/core-name/conf/ yolunun altında.
 
